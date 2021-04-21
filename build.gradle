@@ -35,6 +35,10 @@ dependencies {
 	providedCompile \
 		'javax:javaee-api:7.0'
 }
+dependencies {
+	compile group: 'com.yahoofinance-api', name: 'YahooFinanceAPI', version: '3.15.0'
+}
+
 
 war {
 	archiveName 'altoromutual.war'

@@ -39,7 +39,7 @@ IBM AltoroJ
 		<p>
 		  Welcome to Altoro Mutual Online.
 		</p>
-		
+
 		<form name="details" method="get" action="showAccount">
 		<table border="0">
 		  <TR valign="top">
@@ -62,6 +62,7 @@ IBM AltoroJ
 		</form>
 		
 		</div>
+
     </td>
 </div>
 
