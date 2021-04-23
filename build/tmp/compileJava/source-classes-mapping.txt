@@ -16,6 +16,8 @@ com/ibm/security/appscan/altoromutual/servlet/AccountViewServlet.java
  com.ibm.security.appscan.altoromutual.servlet.AccountViewServlet
 com/ibm/security/appscan/altoromutual/api/FeedbackAPI.java
  com.ibm.security.appscan.altoromutual.api.FeedbackAPI
+com/ibm/security/appscan/altoromutual/servlet/SubscribeServlet.java
+ com.ibm.security.appscan.altoromutual.servlet.SubscribeServlet
 com/ibm/security/appscan/altoromutual/model/User.java
  com.ibm.security.appscan.altoromutual.model.User
  com.ibm.security.appscan.altoromutual.model.User$Role
@@ -51,8 +53,6 @@ com/ibm/security/appscan/altoromutual/util/OperationsUtil.java
  com.ibm.security.appscan.altoromutual.util.OperationsUtil
 com/ibm/security/appscan/altoromutual/filter/AdminFilter.java
  com.ibm.security.appscan.altoromutual.filter.AdminFilter
-com/ibm/security/appscan/altoromutual/servlet/SubscribeServlet.java
- com.ibm.security.appscan.altoromutual.servlet.SubscribeServlet
 com/ibm/security/appscan/altoromutual/model/YahooFinance.java
  com.ibm.security.appscan.altoromutual.model.YahooFinance
 com/ibm/security/appscan/altoromutual/api/AccountAPI.java
@@ -61,5 +61,5 @@ com/ibm/security/appscan/altoromutual/util/DBUtil.java
  com.ibm.security.appscan.altoromutual.util.DBUtil
 com/ibm/security/appscan/altoromutual/servlet/CCApplyServlet.java
  com.ibm.security.appscan.altoromutual.servlet.CCApplyServlet
-com/ibm/security/appscan/altoromutual/model/print.java
- com.ibm.security.appscan.altoromutual.model.print
+com/ibm/security/appscan/altoromutual/model/Printing.java
+ com.ibm.security.appscan.altoromutual.model.Printing
